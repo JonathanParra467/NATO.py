@@ -1,4 +1,13 @@
-
+"""
+Create the NATO Phonetic Alphabet Dictionary:
+Construct a dictionary in Python named NATO_ALPHABET (this is a global constant), where each key is a letter, and its value is the corresponding NATO phonetic term.
+Develop the Spelling Program:
+Write a function to prompt the user for a word and iterate through each letter to find and print the NATO phonetic term.
+Incorporate a Main Function:
+Encapsulate your logic within a main() function for organization.
+Test Your Program:
+Test the program with various inputs, ensuring it works as expected.
+"""
 NATO_ALPHABET = {
     "A": "Alpha",
     "B": "Bravo",
