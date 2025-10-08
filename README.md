@@ -1,0 +1,2 @@
+# NATO.py
+class work
